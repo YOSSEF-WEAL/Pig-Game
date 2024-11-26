@@ -263,7 +263,7 @@ main {
 @media (max-width: 500px) {
   main {
     width: 90%;
-    height: 95vh;
+    height: 890px;
     flex-direction: column;
     backdrop-filter: blur(0px) !important;
   }
