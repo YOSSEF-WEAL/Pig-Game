@@ -259,7 +259,6 @@ main {
   opacity: 0;
   z-index: 0;
 }
-
 @media (max-width: 500px) {
   main {
     width: 90%;
@@ -283,7 +282,7 @@ main {
       transform: translateX(0%);
     }
   }
-    .modil {
+  .modil {
     scale: 0.8;
   }
   .bg {
