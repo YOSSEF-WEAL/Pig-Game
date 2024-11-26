@@ -283,4 +283,11 @@ main {
       transform: translateX(0%);
     }
   }
+    .modil {
+    scale: 0.8;
+  }
+  .bg {
+    width: 200%;
+    height: 200vh;
+  }
 }
