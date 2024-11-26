@@ -260,13 +260,12 @@ main {
   z-index: 0;
 }
 
-
-
 @media (max-width: 500px) {
   main {
     width: 90%;
     height: 95vh;
     flex-direction: column;
+    backdrop-filter: blur(0px) !important;
   }
   .btnss {
     position: absolute;
@@ -285,4 +284,3 @@ main {
     }
   }
 }
-
